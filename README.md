@@ -1,2 +1,2 @@
 # FbxToolsExperiments
-This repo is isedto collect my experiments with FBX SDK
+This repo is used to collect my experiments with FBX SDK
